@@ -3,7 +3,8 @@
 	"package": "me.hhrengar.hhrsbm.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+		"ChatReceiveMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
